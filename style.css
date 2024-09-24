@@ -29,6 +29,8 @@
     background-color: #d1263c;
     margin: 2%;
 
+    display: flex;
+    flex-direction: row;
 }
 
 .green_box{
