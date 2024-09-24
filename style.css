@@ -12,3 +12,48 @@
     font-size: 5em;
     font-family: 'Courier New', Courier, monospace;
 }
+
+.background{ 
+    height: 400px;
+    width: 90%;
+    margin-left: 5%;
+    margin-right:5%;
+    border:2px solid black;
+
+    background-image: url("./img/showcase.jpg");
+}
+
+.röd_box{
+    border: 2px #179992 solid;
+    border-radius: 5px;
+    background-color: #d1263c;
+    margin: 2%;
+
+}
+
+.green_box{
+    background-color: #00ff1e;
+    border: 3px solid black;
+    padding: 1%;
+    margin-left: 32%;
+    padding-right: 15%;
+}
+
+.black_box{
+    background-color: black;
+    border: 3px solid #00ff1e ;
+    padding: 2%;
+    margin-right: 32%;
+    padding-left: 15%;
+}
+
+.black_t{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+
+.green_t{
+    font-family: 'Courier New', Courier, monospace;
+    color: #00ff1e;
+    font-weight:bold;
+}
